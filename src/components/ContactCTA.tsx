@@ -50,7 +50,7 @@ export function ContactCTA() {
         <div className="text-center">
           <a
             href="https://wa.me/351914091667?text=Olá%20Manuel%2C%20estou%20interessado%20em%20reservar%20abacates.%20Podes%20dar-me%20mais%20informações%3F"
-            className="inline-flex items-center gap-2 px-8 py-3 bg-stone-200 text-gray-900 dark:bg-stone-300 dark:text-gray-950 rounded-full font-semibold text-base no-underline hover:bg-stone-300 dark:hover:bg-stone-400 transition"
+            className="inline-flex items-center gap-2 px-8 py-3 bg-white/90 dark:bg-gray-900/90 text-gray-900 dark:text-white rounded-full text-sm font-semibold no-underline hover:bg-white dark:hover:bg-gray-900 transition"
           >
             Mensagem no WhatsApp
           </a>
