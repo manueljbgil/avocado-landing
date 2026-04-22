@@ -182,7 +182,7 @@ export function PurchaseOptions() {
             features={[
               'Mínimo 1 kg',
               'Desconto para 5 kg+',
-              'Ideal para famílias ou uso regular',
+              'Ideal para famílias',
             ]}
             featured
             badge="Mais popular"
